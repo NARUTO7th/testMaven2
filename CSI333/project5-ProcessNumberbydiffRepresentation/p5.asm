@@ -1,19 +1,15 @@
 #
 #CSI 333.Programming at the Hardware-Software Interface
 #Spring 2019
-#supervisor: HuangYing
-#ZR1704
-#id:2017215193
-#Tang Hao
 #
 		.data
 prompt: 	.asciiz "Enter the line? "
 
 Num:	.asciiz "No. of integers: "
 
-promptOf1snum:	.asciiz "\nMaximum number of 1¡¯s in the binary representation: "			
+promptOf1snum:	.asciiz "\nMaximum number of 1Â¡Â¯s in the binary representation: "			
 
-maximunB:		.asciiz "\nIntegers of maximum number of 1¡¯s in the binary representation: \n"
+maximunB:		.asciiz "\nIntegers of maximum number of 1Â¡Â¯s in the binary representation: \n"
 
 newline:		.asciiz "\n"
 				

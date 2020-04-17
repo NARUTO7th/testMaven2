@@ -1,0 +1,3 @@
+Flow Control ID -i_i20:        sw          $15,avg         #Store the average
+            put avg
+            sw          $15,avg
